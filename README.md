@@ -5,16 +5,16 @@
 1. _Get and display the entire list of contacts in the form of a table
    (console.table)._<br/> node index.js --action list </br/> Command execution
    screenshot
-   [link](https://i.ibb.co/mFjjTNV/Screenshot-action-list.png)<br/>![Action list](https://i.ibb.co/mFjjTNV/Screenshot-action-list.png)
+   [link](https://i.ibb.co/mFjjTNV/Screenshot-action-list.png)<br/>![markdown list](https://i.ibb.co/mFjjTNV/Screenshot-action-list.png)
 
 2. _Get contact by id._ <br/> node index.js --action get --id
    05olLMgyVQdWRwgKfg5J6 <br/> Command execution screenshot
-   [link](https://i.ibb.co/tH8fZrL/Screenshot-action-get.png)<br/>![Action get id](https://i.ibb.co/tH8fZrL/Screenshot-action-get.png)
+   [link](https://i.ibb.co/tH8fZrL/Screenshot-action-get.png)<br/>![markdown get id](https://i.ibb.co/tH8fZrL/Screenshot-action-get.png)
 
 3. _Add the contact._ <br/> node index.js --action add --name Mango --email
    mango@gmail.com --phone 322-22-22 <br/> Command execution screenshot
-   [link](https://i.ibb.co/pZp02ww/Screenshot-action-add.png)<br/>![Action add](https://i.ibb.co/pZp02ww/Screenshot-action-add.png)
+   [link](https://i.ibb.co/pZp02ww/Screenshot-action-add.png)<br/>![markdown add](https://i.ibb.co/pZp02ww/Screenshot-action-add.png)
 
 4. _Delete the contact._ <br/> node index.js --action remove --id
    qdggE76Jtbfd9eWJHrssH <br/> Command execution screenshot
-   [link](https://i.ibb.co/jDJNspn/Screenshot-action-remove.png)<br/>![Action remove](https://i.ibb.co/jDJNspn/Screenshot-action-remove.png)
+   [link](https://i.ibb.co/jDJNspn/Screenshot-action-remove.png)<br/>![markdown remove](https://i.ibb.co/jDJNspn/Screenshot-action-remove.png)
